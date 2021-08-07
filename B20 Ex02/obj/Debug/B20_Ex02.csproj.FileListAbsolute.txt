@@ -1,0 +1,2 @@
+C:\Users\Aviya\Desktop\shana b simester b\c#\Ex02\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\obj\Debug\B20_Ex02.csprojAssemblyReference.cache
+C:\Users\Aviya\Desktop\shana b simester b\c#\Ex02\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\obj\Debug\B20_Ex02.csproj.CoreCompileInputs.cache
